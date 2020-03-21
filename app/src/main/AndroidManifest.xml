@@ -26,6 +26,9 @@
             android:name=".ui.SlidingTabActivity"
             android:screenOrientation="portrait"/>
         <activity
+            android:name=".ui.SlidingTab2Activity"
+            android:screenOrientation="portrait"/>
+        <activity
             android:name=".ui.SegmentTabActivity"
             android:screenOrientation="portrait"/>
 
