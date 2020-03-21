@@ -69,6 +69,16 @@ dependencies{
     compile 'com.android.support:support-v4:23.1.1'
     compile 'com.flyco.tablayout:FlycoTabLayout_Lib:2.1.2@aar'
 }
+
+v2.2.0
+支持androidx 和viewpager2
+
+maven { url 'https://jitpack.io' }
+
+依赖:
+implementation 'com.github.chenyunecjtu:FlycoTabLayout:v2.2.0'
+
+
 ```
 
 ## Attributes

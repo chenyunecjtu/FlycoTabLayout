@@ -23,7 +23,8 @@ dependencies {
     implementation fileTree(dir: 'libs', include: ['*.jar'])
     implementation 'androidx.appcompat:appcompat:1.1.0'
     implementation 'androidx.viewpager2:viewpager2:1.0.0'
-    implementation project(':FlycoTabLayout_Lib')
+//    implementation project(':FlycoTabLayout_Lib')
+    implementation 'com.github.chenyunecjtu:FlycoTabLayout:v2.2.0'
 
     //--->support 3.0+
 //    implementation 'com.flyco.tablayout:FlycoTabLayout_Lib:2.1.2@aar'
