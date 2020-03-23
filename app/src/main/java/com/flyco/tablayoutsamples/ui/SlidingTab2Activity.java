@@ -66,6 +66,7 @@ public class SlidingTab2Activity extends AppCompatActivity implements OnTabSelec
 
         tabLayout_2.setOnTabSelectListener(this);
         tabLayout_2.setViewPager(vp, mTitles);
+        tabLayout_2.showDot(1);
         vp.setCurrentItem(1);
     }
 
